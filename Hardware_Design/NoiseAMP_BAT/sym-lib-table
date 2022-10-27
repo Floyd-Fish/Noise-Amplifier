@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NoiseAMP_BAT")(type "KiCad")(uri "${KIPRJMOD}/NoiseAMP_BAT.kicad_sym")(options "")(descr ""))
+)

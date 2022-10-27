@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "NoiseAMP_PCBLib")(type "KiCad")(uri "${KIPRJMOD}/NoiseAMP_PCBLib.pretty")(options "")(descr ""))
+)

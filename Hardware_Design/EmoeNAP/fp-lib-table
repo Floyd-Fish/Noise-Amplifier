@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EmoeNAP_FootPrint_Lib")(type "KiCad")(uri "${KIPRJMOD}/EmoeNAP_FootPrint_Lib.pretty")(options "")(descr ""))
+)

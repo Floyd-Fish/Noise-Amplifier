@@ -2,7 +2,7 @@
 
 An ultra-low noise amplifier **(named EmoeNAP)** capable to measure low-noise LDO/OPA's wide band output noise, and many other interesting measurements. Referred to **[AN-159](https://www.analog.com/en/app-notes/an-159.html)**.
 
-The full article about **[How to build a Noise Amplifier](https://www.emoe.xyz/noise-amplifier-building-instruction/)** can be found here.  
+The full article about the initial version of Noise Amp can be found here:**[How to build a Noise Amplifier](https://www.emoe.xyz/noise-amplifier-building-instruction/)**. And to step further, to build the current version named **EmoeNAP**，please follow **[Noise Amplifier Step further](https://www.emoe.xyz/noise-amplifier-step-further/)**
 
 Test result show that: with input shorted, the total output noise in 100kHz bandwidth is 1.76mVrms, and **the EmoeNAP's Gain equals to 80dB**, which results in **176nVrms input noise.**
 

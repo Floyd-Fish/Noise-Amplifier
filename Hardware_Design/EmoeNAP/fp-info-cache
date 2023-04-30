@@ -1,4 +1,4 @@
-20216350543148577
+20224716470451959
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -49972,6 +49972,41 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom Misc
+1.7H TF CARD SMD
+
+
+0
+13
+9
+Custom Misc
+NFM21PC104R1E3D
+NFM21PC104R1E3D-3
+Filter
+0
+4
+3
+Custom Misc
+Prog_Prob 1x4 2.0mm spacing
+
+
+0
+4
+4
+Custom Misc
+SCF TF Card 9P
+
+
+0
+15
+9
+Custom Misc
+TS-A017-3x4x2.5-Button
+
+
+0
+4
+2
 Custom_Logo
 EmoeSynth_V00.01_SystemArch_soild
 

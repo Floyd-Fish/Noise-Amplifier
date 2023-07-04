@@ -4315,7 +4315,7 @@
     (effects (font (size 2.0066 2.0066)) (justify left bottom))
     (uuid a2a20330-4dcc-4c1b-864c-eb6c21aa6138)
   )
-  (text "	Virtual Ground circuit is more convenient\nto operate on single cell battery.But it intro-\nduces a lot of noise to system noise floor.\n	For best noise floor performance, please \nuse 2-cell battery to provide true bipolar \npower supply."
+  (text "	Virtual Ground circuit is more convenient\nto operate on single cell battery.But it intro-\nduces a little noise to system noise floor.\n	For best noise floor performance, please \nuse 2-cell battery to provide true bipolar \npower supply."
     (at 107.95 270.51 0)
     (effects (font (size 2 2) (thickness 0.4) bold italic) (justify left bottom))
     (uuid b6afe7d7-1c44-4241-8386-52c45494dccf)
@@ -10011,7 +10011,7 @@
     (property "Reference" "RISO3" (at 68.58 160.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10R" (at 71.12 160.02 0)
+    (property "Value" "0R" (at 71.12 160.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 69.85 153.67 0)

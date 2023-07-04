@@ -23,6 +23,12 @@ In next version of EmoeNAP, I plan to change its architecture a little to the fo
 
 ![EmoeNAP_Arch](img/EmoeNAP.jpg)
 
+## V2.3 Known Issue
+
+- Poor layout of output low-pass filter, to be re-designed.  
+- Input Riso is not needed, because it introduces more thermal noise to input.(Can be seen as source impedance)  
+- A resistor should be connected in series at wideband output port, because capacitive load( osilloscope input port, such as) can cause loop instability problem, so a resistor is needed to isolate the opamp output to load capacitor. A common value of 100 ohms is recommended.
+
 
 
 
